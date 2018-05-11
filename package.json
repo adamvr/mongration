@@ -1,6 +1,6 @@
 {
-  "name": "mongration",
-  "version": "1.0.0",
+  "name": "@adamvr/mongration",
+  "version": "1.0.1",
   "description": "Node.js mongodb migration framework",
   "main": "index.js",
   "bin": {
